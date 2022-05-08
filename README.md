@@ -1,6 +1,6 @@
 # CustomerOrderTrackingSystem
 
- Customer Order tracking system is a Spring Boot Application which has been deployed to the docker container through which User can perform the below tasks.
+ Customer Order tracking system is a Spring Boot Application which has been deployed to the docker container,  through this application User can perform the below tasks.
 
  Customer Order tracking system  Spring Boot application contains below 4 Restful APIS.
 
