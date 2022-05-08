@@ -1,0 +1,446 @@
+[
+	{
+		"customerId": 101,
+		"firstName": "James",
+		"lastName": "Anderson",
+		"address": "65th Street Transverse",
+		"city": "New York",
+		"state": "NY",
+		"zip": "10065",
+		"country": "United States",
+		"phoneNumber": "8545436451",
+		"email": "anderson@gmail.com",
+		"ordersList": [
+			{
+				"orderId": 1,
+				"orderAmount": 300.00,
+				"orderDate": "01-Feb-2016",
+				"itemsList": [
+					{
+						"itemId": 1000,
+						"itemName": "Pizza",
+						"itemDesc": "Onion Pizza",
+						"itemPrice": 100.00
+					},
+					{
+						"itemId": 1001,
+						"itemName": "Bisuit",
+						"itemDesc": "Britania Biscuit",
+						"itemPrice": 200.00
+					}
+				]
+			},
+			{
+				"orderId": 2,
+				"orderAmount": 700.00,
+				"orderDate": "01-Mar-2017",
+				"itemsList": [
+					{
+						"itemId": 1003,
+						"itemName": "Pizza",
+						"itemDesc": "Onion Pizza",
+						"itemPrice": 300.00
+					},
+					{
+						"itemId": 1004,
+						"itemName": "Chocolate",
+						"itemDesc": "Dark chocolate",
+						"itemPrice": 400.00
+					}
+				]
+			},
+			{
+				"orderId": 3,
+				"orderAmount": 700.00,
+				"orderDate": "01-Jan-2018",
+				"itemsList": [
+					{
+						"itemId": 1005,
+						"itemName": "Orange",
+						"itemDesc": "Fresh Oranges",
+						"itemPrice": 300.00
+					},
+					{
+						"itemId": 1006,
+						"itemName": "Banana",
+						"itemDesc": "Fresh Bananas",
+						"itemPrice": 400.00
+					}
+				]
+			},
+			{
+				"orderId": 4,
+				"orderAmount": 1100.00,
+				"orderDate": "07-Feb-2019",
+				"itemsList": [
+					{
+						"itemId": 1007,
+						"itemName": "Mango",
+						"itemDesc": "Fresh Mangoes",
+						"itemPrice": 500.00
+					},
+					{
+						"itemId": 1008,
+						"itemName": "Orange",
+						"itemDesc": "Fresh Oranges",
+						"itemPrice": 600.00
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 102,
+		"firstName": "Ricky",
+		"lastName": "Ponting",
+		"address": "145th St Bridge",
+		"city": "New York",
+		"state": "NY",
+		"zip": "10030",
+		"country": "United States",
+		"phoneNumber": "8545498992",
+		"email": "ricky@gmail.com",
+		"ordersList": [
+			{
+				"orderId": 5,
+				"orderAmount": 1200.00,
+				"orderDate": "07-Feb-2020",
+				"itemsList": [
+					{
+						"itemId": 1009,
+						"itemName": "Berry",
+						"itemDesc": "Fresh berries",
+						"itemPrice": 300.00
+					},
+					{
+						"itemId": 1010,
+						"itemName": "Cherry",
+						"itemDesc": "Fresh Cherries",
+						"itemPrice": 900.00
+					}
+				]
+			},
+			{
+				"orderId": 6,
+				"orderAmount": 1400.00,
+				"orderDate": "07-Feb-2021",
+				"itemsList": [
+					{
+						"itemId": 1011,
+						"itemName": "Avacado",
+						"itemDesc": "Fresh Avacados",
+						"itemPrice": 900.00
+					},
+					{
+						"itemId": 1012,
+						"itemName": "Orange",
+						"itemDesc": "Fresh Oranges",
+						"itemPrice": 500.00
+					}
+				]
+			},
+			{
+				"orderId": 7,
+				"orderAmount": 1400.00,
+				"orderDate": "01-Feb-2016",
+				"itemsList": [
+					{
+						"itemId": 1013,
+						"itemName": "Apple",
+						"itemDesc": "Fresh Apples",
+						"itemPrice": 900.00
+					},
+					{
+						"itemId": 1014,
+						"itemName": "Fig",
+						"itemDesc": "Fresh Figs",
+						"itemPrice": 500.00
+					}
+				]
+			},
+			{
+				"orderId": 8,
+				"orderAmount": 1400.00,
+				"orderDate": "01-Jan-2017",
+				"itemsList": [
+					{
+						"itemId": 1015,
+						"itemName": "Lemon",
+						"itemDesc": "Fresh Lemons",
+						"itemPrice": 900.00
+					},
+					{
+						"itemId": 1016,
+						"itemName": "Pear",
+						"itemDesc": "Fresh Pears",
+						"itemPrice": 500.00
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 103,
+		"firstName": "Glenn",
+		"lastName": "McGrath",
+		"address": "Abingdon Square",
+		"city": "New York",
+		"state": "NY",
+		"zip": "10014",
+		"country": "United States",
+		"phoneNumber": "8500436453",
+		"email": "glenn@gmail.com",
+		"ordersList": [
+			{
+				"orderId": 9,
+				"orderAmount": 399.00,
+				"orderDate": "01-Feb-2016",
+				"itemsList": [
+					{
+						"itemId": 1017,
+						"itemName": "Pizza",
+						"itemDesc": "Onion Pizza",
+						"itemPrice": 199.00
+					},
+					{
+						"itemId": 1018,
+						"itemName": "Bisuit",
+						"itemDesc": "Britania Biscuit",
+						"itemPrice": 200.00
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 104,
+		"firstName": "Steve",
+		"lastName": "Smith",
+		"address": "Ak Uunyaa Rd",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92040",
+		"country": "United States",
+		"phoneNumber": "9945436456",
+		"email": "steve@gmail.com",
+		"ordersList": [
+			{
+				"orderId": 10,
+				"orderAmount": 399.00,
+				"orderDate": "01-Feb-2016",
+				"itemsList": [
+					{
+						"itemId": 1019,
+						"itemName": "Pizza",
+						"itemDesc": "Onion Pizza",
+						"itemPrice": 199.00
+					},
+					{
+						"itemId": 1020,
+						"itemName": "Bisuit",
+						"itemDesc": "Britania Biscuit",
+						"itemPrice": 200.00
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105,
+		"firstName": "Garfield",
+		"lastName": "Sobers",
+		"address": "NW 2nd Ave",
+		"city": "Miami",
+		"state": "FL",
+		"zip": "33127",
+		"country": "United States",
+		"phoneNumber": "8545436400",
+		"email": "garfield@gmail.com",
+		"ordersList": [
+			{
+				"orderId": 11,
+				"orderAmount": 400.00,
+				"orderDate": "01-Feb-2016",
+				"itemsList": [
+					{
+						"itemId": 1021,
+						"itemName": "Pizza",
+						"itemDesc": "Onion Pizza",
+						"itemPrice": 200.00
+					},
+					{
+						"itemId": 1022,
+						"itemName": "Bisuit",
+						"itemDesc": "Britania Biscuit",
+						"itemPrice": 200.00
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 106,
+		"firstName": "Clive",
+		"lastName": "Lloyd",
+		"address": "Abingdon Square",
+		"city": "New York",
+		"state": "NY",
+		"zip": "10014",
+		"country": "United States",
+		"phoneNumber": "8545430056",
+		"email": "clive@gmail.com",
+		"ordersList": [
+			{
+				"orderId": 12,
+				"orderAmount": 1000.00,
+				"orderDate": "01-Feb-2016",
+				"itemsList": [
+					{
+						"itemId": 1023,
+						"itemName": "Pizza",
+						"itemDesc": "Onion Pizza",
+						"itemPrice": 700.00
+					},
+					{
+						"itemId": 1024,
+						"itemName": "Bisuit",
+						"itemDesc": "Britania Biscuit",
+						"itemPrice": 300.00
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 107,
+		"firstName": "Ben",
+		"lastName": "Stokes",
+		"address": "Abraham Kazan St",
+		"city": "New York",
+		"state": "NY",
+		"zip": "10002",
+		"country": "United States",
+		"phoneNumber": "8545430000",
+		"email": "ben@gmail.com",
+		"ordersList": [
+			{
+				"orderId": 13,
+				"orderAmount": 1000.00,
+				"orderDate": "01-Feb-2016",
+				"itemsList": [
+					{
+						"itemId": 1025,
+						"itemName": "Pizza",
+						"itemDesc": "Onion Pizza",
+						"itemPrice": 800.00
+					},
+					{
+						"itemId": 1026,
+						"itemName": "Bisuit",
+						"itemDesc": "Britania Biscuit",
+						"itemPrice": 200.00
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 108,
+		"firstName": "Hashim",
+		"lastName": "Amla",
+		"address": "Andes Rd",
+		"city": "New York",
+		"state": "NY",
+		"zip": "17406",
+		"country": "United States",
+		"phoneNumber": "8000436456",
+		"email": "hashim@gmail.com",
+		"ordersList": [
+			{
+				"orderId": 14,
+				"orderAmount": 1800.00,
+				"orderDate": "01-Feb-2016",
+				"itemsList": [
+					{
+						"itemId": 1027,
+						"itemName": "Pizza",
+						"itemDesc": "Onion Pizza",
+						"itemPrice": 900.00
+					},
+					{
+						"itemId": 1028,
+						"itemName": "Bisuit",
+						"itemDesc": "Britania Biscuit",
+						"itemPrice": 900.00
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 109,
+		"firstName": "Chris",
+		"lastName": "Gayle",
+		"address": "Avenue A",
+		"city": "New York",
+		"state": "NY",
+		"zip": "20609",
+		"country": "United States",
+		"phoneNumber": "9995436456",
+		"email": "chris@gmail.com",
+		"ordersList": [
+			{
+				"orderId": 15,
+				"orderAmount": 399.00,
+				"orderDate": "01-Feb-2016",
+				"itemsList": [
+					{
+						"itemId": 1029,
+						"itemName": "Pizza",
+						"itemDesc": "Onion Pizza",
+						"itemPrice": 199.00
+					},
+					{
+						"itemId": 1030,
+						"itemName": "Bisuit",
+						"itemDesc": "Britania Biscuit",
+						"itemPrice": 200.00
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 110,
+		"firstName": "David",
+		"lastName": "Warner",
+		"address": "San Diego Avenue",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92138",
+		"country": "United States",
+		"phoneNumber": "8545436999",
+		"email": "david@gmail.com",
+		"ordersList": [
+			{
+				"orderId": 16,
+				"orderAmount": 599.00,
+				"orderDate": "01-Feb-2016",
+				"itemsList": [
+					{
+						"itemId": 1031,
+						"itemName": "Pizza",
+						"itemDesc": "Onion Pizza",
+						"itemPrice": 199.00
+					},
+					{
+						"itemId": 1032,
+						"itemName": "Bisuit",
+						"itemDesc": "Britania Biscuit",
+						"itemPrice": 400.00
+					}
+				]
+			}
+		]
+	}
+]
